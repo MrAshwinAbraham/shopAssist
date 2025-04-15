@@ -1,0 +1,1 @@
+https://universe.roboflow.com/yolov5s-f0imc/shopassistod/dataset/1
